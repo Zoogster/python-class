@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7482f3c4-76c5-4e97-a626-097f4f012dc5" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="user.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/user.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+              <folding>
+                <marker date="1574352078000" expanded="true" signature="48:58" ph="..." />
+                <marker date="1574352078000" expanded="true" signature="356:366" ph="..." />
+                <marker date="1574352078000" expanded="true" signature="626:636" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="course.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/course.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="781">
+              <caret line="88" selection-start-line="88" selection-end-line="88" />
+              <folding>
+                <marker date="1574352078000" expanded="true" signature="56:66" ph="..." />
+                <marker date="1574352078000" expanded="true" signature="485:495" ph="..." />
+                <marker date="1574352078000" expanded="true" signature="836:846" ph="..." />
+                <marker date="1574352078000" expanded="true" signature="1457:1467" ph="..." />
+                <marker date="1574352078000" expanded="true" signature="2078:2088" ph="..." />
+                <marker date="1574352078000" expanded="true" signature="2631:2641" ph="..." />
+                <marker date="1574352078000" expanded="true" signature="2925:2935" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="student.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/student.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="884">
+              <caret line="52" selection-start-line="52" selection-end-line="52" />
+              <folding>
+                <marker date="1574352078000" expanded="true" signature="77:87" ph="..." />
+                <marker date="1574352078000" expanded="true" signature="369:379" ph="..." />
+                <marker date="1574352078000" expanded="true" signature="941:951" ph="..." />
+                <marker date="1574352078000" expanded="true" signature="1521:1531" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="663">
+              <caret line="39" selection-start-line="39" selection-end-line="39" />
+              <folding>
+                <marker date="1574352078000" expanded="true" signature="75:85" ph="..." />
+                <marker date="1574352078000" expanded="true" signature="368:378" ph="..." />
+                <marker date="1574352078000" expanded="true" signature="969:979" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="registeration_main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/registeration_main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1224">
+              <caret line="74" selection-start-line="74" selection-end-line="74" />
+              <folding>
+                <marker date="1574352078000" expanded="true" signature="561:567" ph="..." />
+                <marker date="1574352078000" expanded="true" signature="1148:1154" ph="..." />
+                <marker date="1574352078000" expanded="true" signature="1863:1869" ph="..." />
+                <marker date="1574352078000" expanded="true" signature="2496:2502" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../../Lesson 09/registration_system/registration.py" />
+        <option value="$PROJECT_DIR$/course.py" />
+        <option value="$PROJECT_DIR$/user.py" />
+        <option value="$PROJECT_DIR$/student.py" />
+        <option value="$PROJECT_DIR$/admin.py" />
+        <option value="$PROJECT_DIR$/registeration_main.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="120" />
+    <option name="y" value="70" />
+    <option name="width" value="1480" />
+    <option name="height" value="930" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Course" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="registration_system_oop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="registration_system_oop" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.registeration_main">
+    <configuration name="admin" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="registration_system_oop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/admin.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="course" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="registration_system_oop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/course.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="registeration_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="registration_system_oop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/registeration_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="student" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="registration_system_oop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/student.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.admin" />
+      <item itemvalue="Python.course" />
+      <item itemvalue="Python.registeration_main" />
+      <item itemvalue="Python.student" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.registeration_main" />
+        <item itemvalue="Python.course" />
+        <item itemvalue="Python.student" />
+        <item itemvalue="Python.admin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1886196" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="11" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.1908078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="8" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <marker date="1574352078000" expanded="true" signature="48:58" ph="..." />
+            <marker date="1574352078000" expanded="true" signature="356:366" ph="..." />
+            <marker date="1574352078000" expanded="true" signature="626:636" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
+          <folding>
+            <marker date="1574352078000" expanded="true" signature="56:66" ph="..." />
+            <marker date="1574352078000" expanded="true" signature="485:495" ph="..." />
+            <marker date="1574352078000" expanded="true" signature="836:846" ph="..." />
+            <marker date="1574352078000" expanded="true" signature="1457:1467" ph="..." />
+            <marker date="1574352078000" expanded="true" signature="2078:2088" ph="..." />
+            <marker date="1574352078000" expanded="true" signature="2631:2641" ph="..." />
+            <marker date="1574352078000" expanded="true" signature="2925:2935" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+          <folding>
+            <marker date="1574352078000" expanded="true" signature="77:87" ph="..." />
+            <marker date="1574352078000" expanded="true" signature="369:379" ph="..." />
+            <marker date="1574352078000" expanded="true" signature="941:951" ph="..." />
+            <marker date="1574352078000" expanded="true" signature="1521:1531" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <marker date="1574352078000" expanded="true" signature="75:85" ph="..." />
+            <marker date="1574352078000" expanded="true" signature="368:378" ph="..." />
+            <marker date="1574352078000" expanded="true" signature="969:979" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/registeration_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+          <folding>
+            <marker date="1574352078000" expanded="true" signature="561:567" ph="..." />
+            <marker date="1574352078000" expanded="true" signature="1148:1154" ph="..." />
+            <marker date="1574352078000" expanded="true" signature="1863:1869" ph="..." />
+            <marker date="1574352078000" expanded="true" signature="2496:2502" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
+          <folding>
+            <marker date="1574352078000" expanded="true" signature="48:58" ph="..." />
+            <marker date="1574352078000" expanded="true" signature="356:366" ph="..." />
+            <marker date="1574352078000" expanded="true" signature="626:636" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+          <folding>
+            <marker date="1574352078000" expanded="true" signature="56:66" ph="..." />
+            <marker date="1574352078000" expanded="true" signature="485:495" ph="..." />
+            <marker date="1574352078000" expanded="true" signature="836:846" ph="..." />
+            <marker date="1574352078000" expanded="true" signature="1457:1467" ph="..." />
+            <marker date="1574352078000" expanded="true" signature="2078:2088" ph="..." />
+            <marker date="1574352078000" expanded="true" signature="2631:2641" ph="..." />
+            <marker date="1574352078000" expanded="true" signature="2925:2935" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1139">
+          <caret line="67" column="17" selection-start-line="67" selection-start-column="17" selection-end-line="67" selection-end-column="17" />
+          <folding>
+            <marker date="1574352078000" expanded="true" signature="77:87" ph="..." />
+            <marker date="1574352078000" expanded="true" signature="369:379" ph="..." />
+            <marker date="1574352078000" expanded="true" signature="941:951" ph="..." />
+            <marker date="1574352078000" expanded="true" signature="1521:1531" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="49" column="35" lean-forward="true" selection-start-line="49" selection-start-column="35" selection-end-line="49" selection-end-column="35" />
+          <folding>
+            <marker date="1574352078000" expanded="true" signature="75:85" ph="..." />
+            <marker date="1574352078000" expanded="true" signature="368:378" ph="..." />
+            <marker date="1574352078000" expanded="true" signature="969:979" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/registeration_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2669">
+          <caret line="159" lean-forward="true" selection-start-line="159" selection-end-line="159" />
+          <folding>
+            <marker date="1574352078000" expanded="true" signature="561:567" ph="..." />
+            <marker date="1574352078000" expanded="true" signature="1148:1154" ph="..." />
+            <marker date="1574352078000" expanded="true" signature="1863:1869" ph="..." />
+            <marker date="1574352078000" expanded="true" signature="2496:2502" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../registration_system/registration.py" />
+    <entry file="file://$PROJECT_DIR$/../../Lesson 09/registration_system/registration.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="102" column="9" lean-forward="true" selection-start-line="99" selection-end-line="110" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/registeration_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+          <folding>
+            <marker date="1574352078000" expanded="true" signature="561:567" ph="..." />
+            <marker date="1574352078000" expanded="true" signature="1148:1154" ph="..." />
+            <marker date="1574352078000" expanded="true" signature="1863:1869" ph="..." />
+            <marker date="1574352078000" expanded="true" signature="2496:2502" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <marker date="1574352078000" expanded="true" signature="75:85" ph="..." />
+            <marker date="1574352078000" expanded="true" signature="368:378" ph="..." />
+            <marker date="1574352078000" expanded="true" signature="969:979" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+          <folding>
+            <marker date="1574352078000" expanded="true" signature="77:87" ph="..." />
+            <marker date="1574352078000" expanded="true" signature="369:379" ph="..." />
+            <marker date="1574352078000" expanded="true" signature="941:951" ph="..." />
+            <marker date="1574352078000" expanded="true" signature="1521:1531" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <marker date="1574352078000" expanded="true" signature="48:58" ph="..." />
+            <marker date="1574352078000" expanded="true" signature="356:366" ph="..." />
+            <marker date="1574352078000" expanded="true" signature="626:636" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="781">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
+          <folding>
+            <marker date="1574352078000" expanded="true" signature="56:66" ph="..." />
+            <marker date="1574352078000" expanded="true" signature="485:495" ph="..." />
+            <marker date="1574352078000" expanded="true" signature="836:846" ph="..." />
+            <marker date="1574352078000" expanded="true" signature="1457:1467" ph="..." />
+            <marker date="1574352078000" expanded="true" signature="2078:2088" ph="..." />
+            <marker date="1574352078000" expanded="true" signature="2631:2641" ph="..." />
+            <marker date="1574352078000" expanded="true" signature="2925:2935" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
